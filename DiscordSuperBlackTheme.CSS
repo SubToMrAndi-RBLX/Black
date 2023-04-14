@@ -315,7 +315,7 @@ html.theme-dark .theme-light .root-1CAIjD,
 }
 
 #app-mount .messageListItem-ZZ7v6g:hover {
-  background-color: rgba(0, 0, 0, 0.010);
+  background-color: rgba(0, 0, 0, 0.005);
 }
 
 #app-mount .tile-2mmK5T {
@@ -713,7 +713,7 @@ body .contentWrapper-3RqEiS .accordionContainer-vSTU_l {
   background-color: var(--background-primary);
 }
 #app-mount .drawerSizingWrapper-1txdWG .imageLoading-2uloYN {
-  border-radius: 35%;
+  border-radius: 30%;
   background-color: var(--background-secondary-alt);
   background-image: none;
 }
